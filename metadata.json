@@ -1,0 +1,7 @@
+{
+  "name": "Hanini Delivery",
+  "description": "A comprehensive local delivery platform connecting customers with local merchants in Algeria, featuring real-time order tracking and AI-powered food recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
